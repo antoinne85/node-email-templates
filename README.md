@@ -218,7 +218,7 @@ Promise.all(templates)
 
 ### More
 
-Please check the [examples directory](https://github.com/niftylettuce/node-email-templates/tree/master/examples)
+Please check the [examples directory](/examples)
 
 ## Contributors
 
